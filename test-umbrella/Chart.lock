@@ -1,0 +1,6 @@
+dependencies:
+- name: test-subchart
+  repository: file://../test-subchart
+  version: 0.1.0
+digest: sha256:6ae22401d7b989bc9bc382a7d7a1796f048c3ffb351aeabb1c410cdaa70e4176
+generated: "2020-07-22T23:11:10.5598368+02:00"
